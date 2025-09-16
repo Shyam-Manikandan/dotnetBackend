@@ -483,11 +483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ldna40066\\Documents\\dotnet\\MyWebApi\\MyWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ldna40066\\Documents\\Deno\\dotnetBackend\\MyWebApi.csproj",
       "projectName": "MyWebApi",
-      "projectPath": "C:\\Users\\ldna40066\\Documents\\dotnet\\MyWebApi\\MyWebApi.csproj",
+      "projectPath": "C:\\Users\\ldna40066\\Documents\\Deno\\dotnetBackend\\MyWebApi.csproj",
       "packagesPath": "C:\\Users\\ldna40066\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ldna40066\\Documents\\dotnet\\MyWebApi\\obj\\",
+      "outputPath": "C:\\Users\\ldna40066\\Documents\\Deno\\dotnetBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ldna40066\\AppData\\Roaming\\NuGet\\NuGet.Config"

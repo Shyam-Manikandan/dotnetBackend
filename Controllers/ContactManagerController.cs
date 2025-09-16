@@ -36,7 +36,7 @@ namespace MyWebApi.Controllers
         {
             contact.Id = _contacts.Count + 1; 
             _contacts.Add(contact);
-            return CreatedAtAction(nameof(GetContact), new { id = contact.Id }, contact);
+            return CreatedAtAction(nameof(AddContact), new { id = contact.Id }, contact);
         }
 
         // api/contacts/5
